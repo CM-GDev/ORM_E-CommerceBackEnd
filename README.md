@@ -16,7 +16,7 @@
   
   The following are screenshots of the final version of the application tested in Insomnia 
 
-  ![Terminal2](./assets/screenshot.JPG)  
+  ![Insomnia](./assets/screenshot.JPG)  
    
    
   ## Table of Contents
@@ -38,7 +38,7 @@
   
   ## Usage
   
-  After installing the items above, use this [Walkthrough](https://youtu.be/RPUgi_opX3w) video as a guide for using this application.
+  After installing the items above, use this [Walkthrough](https://youtu.be/5AhxBuj-x-o) video as a guide for using this application.
     
   ## Credits
 
