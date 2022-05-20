@@ -13,7 +13,7 @@
     - Run asynchronous queries
   - See the Usage Information of this README for a link to a walkthrough video that demonstrates the appication's functionality using Insomnia.
   
-  The following are screenshots of the final version of the application tested in Insomnia 
+  The following is a screenshot of the final version of the application tested with Insomnia 
 
   ![Insomnia](./assets/screenshot.JPG)  
    
