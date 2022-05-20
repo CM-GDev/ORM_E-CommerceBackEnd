@@ -7,7 +7,6 @@
   - By completing this assignment, I was able to implement lessons from my course, including:
     - Configure a working Express.js API
     - Use Sequelize ORM to interact with a MySQL database
-    - Implement Model-View-Controller (MVC) architectural pattern to organize my project
     - Use Insomnia API Client to test my final product
     - Utilize several npm packages
     - Establish Express.js routes to deploy the application
